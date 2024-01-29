@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiUrl = 'https://fsa-async-await.herokuapp.com/api/2311-FSA-ET-WEB-PT-SF/endpoints';
+    const apiUrl = 'https://fsa-crud-2aa9294fe819.herokuapp.com/api/2311-FSA-ET-WEB-PT-SF/events';
     const partiesList = document.getElementById('partiesList');
     const partyForm = document.getElementById('partyForm');
   
